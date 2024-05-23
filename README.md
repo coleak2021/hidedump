@@ -26,7 +26,7 @@ hidedump.exe 2 tmp.bin
 **More information**
 
 ```
-
+https://mp.weixin.qq.com/s?__biz=MzkyNTUyNDMyOA==&mid=2247487133&idx=1&sn=814bb99d366f7db1d19c6ab8d72731cb&chksm=c1c4069af6b38f8c767ee8b499680de41ab2ce407eb1283b360b61960ba3c30b263c246e91ec#rd
 ```
 
 
