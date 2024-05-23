@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hidedump", "hidedump.vcxproj", "{581CAD97-34F6-4047-A756-0AB431F2C94C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581CAD97-34F6-4047-A756-0AB431F2C94C}.Debug|x64.ActiveCfg = Debug|x64
+		{581CAD97-34F6-4047-A756-0AB431F2C94C}.Debug|x64.Build.0 = Debug|x64
+		{581CAD97-34F6-4047-A756-0AB431F2C94C}.Debug|x86.ActiveCfg = Debug|Win32
+		{581CAD97-34F6-4047-A756-0AB431F2C94C}.Debug|x86.Build.0 = Debug|Win32
+		{581CAD97-34F6-4047-A756-0AB431F2C94C}.Release|x64.ActiveCfg = Release|x64
+		{581CAD97-34F6-4047-A756-0AB431F2C94C}.Release|x64.Build.0 = Release|x64
+		{581CAD97-34F6-4047-A756-0AB431F2C94C}.Release|x86.ActiveCfg = Release|Win32
+		{581CAD97-34F6-4047-A756-0AB431F2C94C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {815B6A6E-1F4C-4DB9-BC73-4B3EB5DF2EB9}
+	EndGlobalSection
+EndGlobal
